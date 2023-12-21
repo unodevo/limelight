@@ -1,0 +1,107 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar-brand{
+font-family: 'Montserrat', sans-serif;
+color:orange;
+}
+
+.card {
+  background-color: rgba(6, 1, 16, 0.655);
+  /* 50% transparent blue */
+}
+
+
+.nav-link{color: white!important;}
+.nav-link:hover{color:orange!important;}
+
+   .navbar-brand {
+        color: orange !important;
+    }
+
+
+
+ .active a {
+            color: rgb(0, 6, 97)!important;
+         }
+
+.active :hover{
+color: black!important;
+}
+
+
+    .nav-link:hover {
+        color: rgba(65, 255, 144, 0.796);
+
+    }
+
+  
+
+.dropdown-item{color: rgb(255, 255, 255);}
+.dropdown-item:hover{color: rgb(243, 130, 187);}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+
+    #carouselExampleCaptions .carousel-item img {  
+        object-fit: contain;
+        object-position: center;
+        overflow: hidden;
+        height:90vh;
+        background-color: rgb(33, 33, 34);
+    
+      
+      }
+
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    
+    }
+    }
+    @media (max-width: 1025px) {
+
+    #carouselExampleCaptions .carousel-item img {  
+        object-fit: contain;
+        object-position: center;
+        overflow: hidden;
+        height:90vh;
+        background-color: rgb(167, 167, 170);
+    
+      
+      }
+
+    }
+
+   
+
+    .body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+h1,h2,h3,h4,h5,h6, p{
+ font-family: 'Montserrat', sans-serif;
+  
+}
+
+.checked {
+  color: orange;
+}
+
+
+#more {display: none;}
+
+
+
+   
